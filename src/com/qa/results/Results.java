@@ -24,7 +24,7 @@ public class Results {
 	}
 	
 	public void methodTwo() {
-		this.percentage = (total * 100) / 450;
+		this.percentage = (total * 100) / 450; 
 		System.out.println("Percentage: " + this.percentage + "%");
 }
 }

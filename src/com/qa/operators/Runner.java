@@ -9,8 +9,9 @@ public class Runner {
 		op.addition(9, 9);
 		op.multiply(3, 7);
 		op.subtract(20, 6);
-		op.divide(15, 6);
-		// TODO Auto-generated method stub
+		op.divide(6, 15);
+		
+		
 
 	}
 
